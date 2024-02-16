@@ -1,13 +1,21 @@
 This will be my tagline:
+Web design & online media marketing 
 
 This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
+Hello there, my name is Ryan Neiderlander and I am a graduate of Pittsburgh Technical College with an Associate’s Degree in Web/UX design. I want to take your ideas and turn them into a web site to help your business’s online presents grow. I can use my knowledge of WordPress to design your page, or design it from the grow up with HTML, CSS, and JavaScript to make your website standout versus other businesses within your market. I enjoy working with a client to take their ideas and bringing them together to build their website. 
 
 Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
 Title & Type of Site:
+Lernerville Speedway: Firecracker 100
 Talent Showcased: 
+Design, Front End Media usage.
 Objective: 
+Inform people about Lernerville Speedway’s yearly event the firecracker 100
 Target Audience: 
+Males, teenagers, and families
 Highlights: 
-1)
-2)
-3)
+1) •	Imagery showing the on-track action at the speedway as well as imagery of fans highlighting the fun happening around the event. 
+o	The fan images are being shown through as slide show which was design using HTML and CSS.
+
+2) •	Other media usage on the site includes uploaded video and music to highlight the event, so people that are new to racing can get a since of what they will see when they head to The Firecracker 100. 
+3) •	The page structure is a built in the bootstrap layout using a one or two column structure. I replaced the bootstrap nav bar and change it to a new plug in to better fit the motorsport’s theme of the page. 
